@@ -4,7 +4,7 @@
 
 ## Je suis ouvert à toute collaboration qui puisse servir ce message que j'espère universel. tremaidayo@gmail.com
 
-## Informations complémentaire sur les textes
+## Informations complémentaires sur les textes
 - Les phrases finissant par une ponctuation suivi d'un espace et d'un point "{,;.?!} ." sont générées par LLM
 - Les phrases finissant par une ponctuation suivi d'un espace et d'une virgule "{,;.?!} ," sont générées en coop avec un LLM
 - Les autres sont générées par l'équivalent LLM organique de votre serviteur 😄
