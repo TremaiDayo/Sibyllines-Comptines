@@ -6,6 +6,7 @@
 - [YouTube](https://www.youtube.com/@TremaiDayo)
 - [Instagram](https://www.instagram.com/tremaidayo8/)
 - [TikTok](https://www.tiktok.com/@tremaidayoo?lang=fr)
+- [Bluesky](https://bsky.app/profile/tremaidayo.bsky.social)
 
 ## Je suis ouvert à toute collaboration qui puisse servir ce message que j'espère universel. tremaidayo@gmail.com
 
