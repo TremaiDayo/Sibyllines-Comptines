@@ -4,7 +4,7 @@
 
 ## Réseaux socieux
 - [YouTube](https://www.youtube.com/@TremaiDayo)
-- [Instgram](https://www.instagram.com/tremaidayo8/)
+- [Instagram](https://www.instagram.com/tremaidayo8/)
 - [TikTok](https://www.tiktok.com/@tremaidayoo?lang=fr)
 
 ## Je suis ouvert à toute collaboration qui puisse servir ce message que j'espère universel. tremaidayo@gmail.com
