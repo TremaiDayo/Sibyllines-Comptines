@@ -2,7 +2,7 @@
 
  Les textes associés à mes vidéos quotidiennes qui portent l'espoir qu'ensemble nous tendions vers un monde plus résilient qu'il s'agisse de démocratie comme d'environnement.
 
-## Réseaux socieux
+## Réseaux sociaux dans l'attente d'un qui soit libre, multimodal, démocratique et financé par des gouvernements audacieux !
 - [YouTube](https://www.youtube.com/@TremaiDayo)
 - [Instagram](https://www.instagram.com/tremaidayo8/)
 - [TikTok](https://www.tiktok.com/@tremaidayoo?lang=fr)
