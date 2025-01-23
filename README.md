@@ -1,6 +1,11 @@
 # Fragments Lyriques
 
-## Les textes associés à mes vidéos quotidiennes qui portent l'espoir qu'ensemble nous tendions vers un monde plus résilient qu'il s'agisse de démocratie comme d'environnement.
+ Les textes associés à mes vidéos quotidiennes qui portent l'espoir qu'ensemble nous tendions vers un monde plus résilient qu'il s'agisse de démocratie comme d'environnement.
+
+## Réseaux socieux
+- [YouTube](https://www.youtube.com/@TremaiDayo)
+- [Instgram](https://www.instagram.com/tremaidayo8/)
+- [TikTok](https://www.tiktok.com/@tremaidayoo?lang=fr)
 
 ## Je suis ouvert à toute collaboration qui puisse servir ce message que j'espère universel. tremaidayo@gmail.com
 
