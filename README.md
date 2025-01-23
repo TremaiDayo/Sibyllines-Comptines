@@ -12,7 +12,7 @@
 Pour l'instant je suis encore le générateur principal mais pour combien de temps ? Les paris sont ouverts. 🙃
 
 # Clusters thématiques triés chronologiquement
-Les symbole - et ~ précisent si le texte et son interprétation ont étaient créés respectivement le même jour on non.
+Les symboles - et ~ précisent si le texte et son interprétation ont étaient créés respectivement le même jour on non.
 ## Environnement & Santé
 - 24-10-01 ~ [Pourquoi suis-je devenu bipolaire](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2024/24-10-01%20~%20Pourquoi%20suis%20je%20devenu%20bipolaire%20%3F)
 - 25-01-13 ~ [Dépression](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2025/25-01-13%20~%20D%C3%A9pression)
