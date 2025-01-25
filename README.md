@@ -8,7 +8,7 @@
 - [TikTok](https://www.tiktok.com/@tremaidayoo?lang=fr)
 - [Bluesky](https://bsky.app/profile/tremaidayo.bsky.social)
 
-## Je suis ouvert à toute collaboration qui puisse servir ce message que j'espère universel. tremaidayo@gmail.com
+## Je suis ouvert à toute collaboration qui puisse servir les messages que j'essaye de relayer. tremaidayo@gmail.com
 
 ## Informations complémentaires sur les textes
 - Les phrases finissant par une ponctuation suivi d'un espace et d'un point "{,;.?!} ." sont générées par LLM
