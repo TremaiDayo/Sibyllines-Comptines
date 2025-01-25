@@ -6,7 +6,9 @@
 - [YouTube](https://www.youtube.com/@TremaiDayo)
 - [Instagram](https://www.instagram.com/tremaidayo8/)
 - [TikTok](https://www.tiktok.com/@tremaidayoo?lang=fr)
+- [LinkedIn](https://www.linkedin.com/in/ga%C3%ABl-beck-7b098880/)
 - [Bluesky](https://bsky.app/profile/tremaidayo.bsky.social)
+- [Threads](https://www.threads.net/@tremaidayo8)
 
 ## Je suis ouvert à toute collaboration qui puisse servir les messages que j'essaye de relayer. tremaidayo@gmail.com
 
