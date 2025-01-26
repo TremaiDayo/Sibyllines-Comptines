@@ -31,7 +31,7 @@ Les symboles - et ~ précisent si le texte et son interprétation ont étés cr�
 - 24-09-05 ~ [Constituante](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2024/24-09-05%20~%20Constituante)
 - 24-11-10 ~ [Trump](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2024/24-11-10%20~%20Trump)
 - 24-11-13 ~ [Marine Lepen](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2024/24-11-13%20~%20Marine%20Lepen)
-- 25-01-07  -  [Jean-Marie Lepen](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2025/25-01-07%20-%20Jean%20Marie%20Lepen)
+- 25-01-07 - [Jean-Marie Lepen](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2025/25-01-07%20-%20Jean%20Marie%20Lepen)
 - 25-01-08 ~ [Démocratie Numérique](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2025/25-01-08%20~%20D%C3%A9mocratie%20Num%C3%A9rique)
 - 25-01-08 ~ [Tous ces mécréants du gouvernement](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2025/25-01-08%20~%20Tous%20ces%20m%C3%A9cr%C3%A9ants%20du%20gouvernement)
 - 25-01-10 ~ [Mettons-y fin !](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2025/25-01-10%20~%20Mettons-y%20fin)
@@ -43,7 +43,7 @@ Les symboles - et ~ précisent si le texte et son interprétation ont étés cr�
 - 25-01-23 ~ [IA-Robots Facho & Fococo](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2025/25-01-23%20~%20IA-Robots%20Facho%20%26%20Fococo)
 ## Outliers
 - 25-01-05 ~ [Appel à la jeunesse](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2025/25-01-05%20~%20Appel%20%C3%A0%20la%20jeunesse)
-- 25-01-21  -  [Rappeu.ses.rs engagé.es.s armez vos cros-mi !](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2025/25-01-21%20-%20Rappeu.ses.rs%20engag%C3%A9.es.s%20armez%20vos%20cros-mi%20!)
+- 25-01-21 - [Rappeu.ses.rs engagé.es.s armez vos cros-mi !](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2025/25-01-21%20-%20Rappeu.ses.rs%20engag%C3%A9.es.s%20armez%20vos%20cros-mi%20!)
 
 
 # May the force be with us !
