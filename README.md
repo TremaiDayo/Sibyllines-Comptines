@@ -42,6 +42,8 @@ Les symboles - et ~ précisent si le texte et son interprétation ont étés cr�
 ## Economie & Technologie
 - 25-01-15 ~ [Ostentatoire monnaie](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2025/25-01-15%20~%20Ostentatoire%20monnaie)
 - 25-01-23 ~ [IA-Robots Facho & Fococo](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2025/25-01-23%20~%20IA-Robots%20Facho%20%26%20Fococo)
+- 25-01-25 ~ [Democratic Blockchain](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2025/25-01-25%20~%20Democratic%20Blockchain)
+- 25-01-26 ~ [Ralentir ou Périr](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2025/25-01-26%20~%20Ralentir%20ou%20P%C3%A9rir)
 ## Outliers
 - 25-01-05 ~ [Appel à la jeunesse](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2025/25-01-05%20~%20Appel%20%C3%A0%20la%20jeunesse)
 - 25-01-21 - [Rappeu.ses.rs engagé.es.s armez vos cros-mi !](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2025/25-01-21%20-%20Rappeu.ses.rs%20engag%C3%A9.es.s%20armez%20vos%20cros-mi%20!)
