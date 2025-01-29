@@ -1,4 +1,4 @@
-# Sibyllines Contines
+# Sibyllines Comptines
 
  Les textes associés à mes vidéos quotidiennes qui portent l'espoir qu'ensemble nous tendions vers un monde plus résilient qu'il s'agisse de démocratie comme d'environnement.
 
