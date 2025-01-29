@@ -37,6 +37,7 @@ Les symboles - et ~ précisent si le texte et son interprétation ont étés cr�
 - 25-01-08 ~ [Tous ces mécréants du gouvernement](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2025/25-01-08%20~%20Tous%20ces%20m%C3%A9cr%C3%A9ants%20du%20gouvernement)
 - 25-01-10 ~ [Mettons-y fin !](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2025/25-01-10%20~%20Mettons-y%20fin)
 - 25-01-16 ~ [Gaza](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2025/25-01-16%20~%20Gaza)
+- 25-01-29 ~ [Sombre Oligarchie](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-01-29%20~%20Sombre%20Oligarchie)
 ## Science & Spiritualité
 - 25-01-18 ~ [SS](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2025/25-01-18%20~%20SS)
 ## Economie & Technologie
