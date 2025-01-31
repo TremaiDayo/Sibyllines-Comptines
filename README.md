@@ -50,6 +50,7 @@ Les symboles - et ~ précisent si le texte et son interprétation ont étés cr�
 - 25-01-21 - [Rappeu.ses.rs engagé.es.s armez vos cros-mi !](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2025/25-01-21%20-%20Rappeu.ses.rs%20engag%C3%A9.es.s%20armez%20vos%20cros-mi%20!)
 - 25-01-28 ~ [Informateurs Indépendants](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2025/25-01-28%20~%20Informateurs%20Ind%C3%A9pendants)
 - 25-01-30 ~ [Résistons !](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-01-30%20~%20R%C3%A9sistons%20!)
+- 25-01-31 - [Vers Mystiques et Chocs Logiques](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-01-31%20-%20Vers%20Mystiques%20et%20Chocs%20Logiques)
 
 
 # May the force be with us !
