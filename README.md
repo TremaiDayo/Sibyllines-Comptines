@@ -38,6 +38,7 @@ Les symboles - et ~ précisent si le texte et son interprétation ont étés cr�
 - 25-01-10 ~ [Mettons-y fin !](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2025/25-01-10%20~%20Mettons-y%20fin)
 - 25-01-16 ~ [Gaza](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2025/25-01-16%20~%20Gaza)
 - 25-01-29 ~ [Sombre Oligarchie](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-01-29%20~%20Sombre%20Oligarchie)
+- 25-02-04 ~ [Inéquitables naissances](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-02-04%20~%20In%C3%A9quitables%20naissances)
 ## Science & Spiritualité
 - 25-01-18 ~ [SS](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2025/25-01-18%20~%20SS)
 ## Economie & Technologie
