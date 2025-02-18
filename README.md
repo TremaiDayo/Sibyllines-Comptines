@@ -13,8 +13,8 @@
 ## Je suis ouvert à toute collaboration qui puisse servir les messages que je relais avec gaieté. tremaidayo@gmail.com
 
 ## Informations complémentaires sur les textes
-- Les phrases finissant par une ponctuation suivi d'un espace et d'un point "{,;.?!} ." sont générées par LLM
-- Les phrases finissant par une ponctuation suivi d'un espace et d'une virgule "{,;.?!} ," sont générées en coop avec un LLM
+- Les phrases finissant par une ponctuation suivi d'un espace et d'un point i.e. "{,;.?!} ." sont générées par LLM
+- Les phrases finissant par une ponctuation suivi d'un espace et d'une virgule i.e. "{,;.?!} ," sont générées en coopération avec un LLM
 - Les autres sont générées par l'équivalent LLM organique de votre serviteur 😄
 
 Pour l'instant je suis encore le générateur principal mais pour combien de temps ? Les paris sont ouverts. 🙃
