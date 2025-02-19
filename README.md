@@ -42,6 +42,7 @@ Les symboles - et ~ précisent si le texte et son interprétation ont étés cr�
 - 25-02-08 ~ [Ère des post vérités](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-02-08%20~%20%C3%88re%20des%20post%20v%C3%A9rit%C3%A9s)
 ## Science & Spiritualité
 - 25-01-18 ~ [SS](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2025/25-01-18%20~%20SS)
+- 25-02-05 ~ [Entropie : Game Over](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-02-05%20~%20Entropie%20%3A%20Game%20Over)
 ## Economie & Technologie
 - 25-01-15 ~ [Ostentatoire monnaie](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2025/25-01-15%20~%20Ostentatoire%20monnaie)
 - 25-01-23 ~ [IA-Robots Facho & Fococo](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2025/25-01-23%20~%20IA-Robots%20Facho%20%26%20Fococo)
