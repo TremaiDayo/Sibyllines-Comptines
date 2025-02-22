@@ -9,6 +9,7 @@
 - [LinkedIn](https://www.linkedin.com/in/ga%C3%ABl-beck-7b098880/)
 - [Bluesky](https://bsky.app/profile/tremaidayo.bsky.social)
 - [Threads](https://www.threads.net/@tremaidayo8)
+- Discord : @tremaidayo8
 
 ## Je suis ouvert à toute collaboration qui puisse servir les messages que je relais avec gaieté. tremaidayo@gmail.com
 
