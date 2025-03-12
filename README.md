@@ -30,6 +30,7 @@ Les symboles - et ~ précisent si le texte et son interprétation ont étés cr�
 - 25-01-24 ~ [Biodiversité en Danger & Faits Clés](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2025/25-01-24%20~%20Biodiversit%C3%A9%20en%20Danger%20%26%20Faits%20Cl%C3%A9s)
 - 25-01-27 ~ [PFAS](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2025/25-01-27%20~%20PFAS)
 - 25-02-06 ~ [Biodiversité en danger](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-02-06%20~%20Biodiversit%C3%A9%20en%20danger%20!)
+- 25-03-12 ~ [Quand la dépression guette](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-03-12%20~%20Quand%20la%20d%C3%A9pression%20guette)
 ## Démocratie & Médiocratie
 - 24-09-05 ~ [Constituante](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2024/24-09-05%20~%20Constituante)
 - 24-11-10 ~ [Trump](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2024/24-11-10%20~%20Trump)
