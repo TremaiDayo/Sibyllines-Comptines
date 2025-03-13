@@ -51,6 +51,7 @@ Les symboles - et ~ précisent si le texte et son interprétation ont étés cr�
 - 25-01-23 ~ [IA-Robots Facho & Fococo](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2025/25-01-23%20~%20IA-Robots%20Facho%20%26%20Fococo)
 - 25-01-25 ~ [Democratic Blockchain](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2025/25-01-25%20~%20Democratic%20Blockchain)
 - 25-01-26 ~ [Ralentir ou Périr](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2025/25-01-26%20~%20Ralentir%20ou%20P%C3%A9rir)
+- 25-03-13 ~ [Croissance](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-03-13%20~%20Croissance)
 ## Raisons et déraisons
 - 25-02-03 ~ [Vertigineuse Sénèquerie](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-02-03%20~%20Vertigineuse%20S%C3%A9n%C3%A8querie)
 ## Outliers
