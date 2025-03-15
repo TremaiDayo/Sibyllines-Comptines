@@ -53,15 +53,15 @@ Les symboles - et ~ précisent si le texte et son interprétation ont étés cr�
 - 25-01-26 ~ [Ralentir ou Périr](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2025/25-01-26%20~%20Ralentir%20ou%20P%C3%A9rir)
 - 25-03-13 ~ [Croissance](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-03-13%20~%20Croissance)
 ## Raisons et déraisons
+- 25-02-02 ~ [Les Liens qui Nous Unissent](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-02-02%20~%20Les%20Liens%20qui%20Nous%20Unissent)
 - 25-02-03 ~ [Vertigineuse Sénèquerie](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-02-03%20~%20Vertigineuse%20S%C3%A9n%C3%A8querie)
+- 25-02-07 - [Simplicité alambiquée](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-02-07%20-%20Simplicit%C3%A9%20alambiqu%C3%A9e)
 ## Outliers
 - 25-01-05 ~ [Appel à la jeunesse](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2025/25-01-05%20~%20Appel%20%C3%A0%20la%20jeunesse)
 - 25-01-21 - [Rappeu.ses.rs engagé.es.s armez vos cros-mi](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2025/25-01-21%20-%20Rappeu.ses.rs%20engag%C3%A9.es.s%20armez%20vos%20cros-mi%20!)
 - 25-01-28 ~ [Informateurs Indépendants](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2025/25-01-28%20~%20Informateurs%20Ind%C3%A9pendants)
 - 25-01-30 ~ [Résistons](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-01-30%20~%20R%C3%A9sistons%20!)
 - 25-01-31 - [Vers Mystiques et Chocs Logiques](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-01-31%20-%20Vers%20Mystiques%20et%20Chocs%20Logiques)
-- 25-02-02 ~ [Les Liens qui Nous Unissent](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-02-02%20~%20Les%20Liens%20qui%20Nous%20Unissent)
-- 25-02-07 - [Simplicité alambiquée](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-02-07%20-%20Simplicit%C3%A9%20alambiqu%C3%A9e)
 - 25-03-13 ~ [Le monde est beau : 1](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-03-13%20~%20Le%20monde%20est%20beau%20%3A%201)
 - 25-03-14 ~ [Courage compagnons : 1](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-03-14%20~%20Courage%20compagnons%20:%201)
 - 25-03-14 ~ [Il suffira](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-03-14%20~%20Il%20suffira)
