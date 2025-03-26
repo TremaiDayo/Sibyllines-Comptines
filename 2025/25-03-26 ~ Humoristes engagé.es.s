@@ -9,3 +9,7 @@ Par leurs éclats stylistiques ils mettent à l’honneur une esthétique diabol
 Qu’elles soient rustres ou sophisitiqués, abordant des sujets lourds ou légers, vos comiques épopées de marbre ne m’ont jamais laissées.
 Ainsi en moi vos idéaux vous avez gravés et sans cesse je tâche de les relayer pour faire vivre cette humanité riche de toutes ses diversités sans lesquelles nous ne pourrions pleinement profiter.
 Si à cette écoute un sourrire vous avez esquissé, ne vous reste plus que de vous même sans gêne rigoler pour compléter ce moment de félicité.
+
+---
+
+[Requête pochette ChatGPT 4o](https://chatgpt.com/share/67e4371c-fe30-8002-a280-7247aaf09174)
