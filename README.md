@@ -72,6 +72,7 @@ Les symboles - et ~ précisent si le texte et son interprétation ont étés cr�
 - 25-03-15 ~ [Il est temps de changer de république pour un monde plus éthique et bucolique](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-03-15%20~%20Il%20est%20temps%20de%20changer%20de%20r%C3%A9publique%20pour%20un%20monde%20plus%20%C3%A9thique%20et%20bucolique)
 - 25-03-17 ~ [Éduquons, Développons, Bataillons](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-03-17%20~%20%C3%89duquons%2C%20D%C3%A9veloppons%2C%20Bataillons)
 - 25-03-26 ~ [Humoristes engagé.es.s](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-03-26%20~%20Humoristes%20engag%C3%A9.es.s)
+- 25-03-27 ~ [Riche de nos atypicités : 1](https://github.com/TremaiDayo/Sibyllines-Comptines/tree/main/2025)
 
 
 # May the force be with us !
