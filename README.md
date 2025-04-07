@@ -48,6 +48,7 @@ Les symboles - et ~ précisent si le texte et son interprétation ont étés cr�
 - 25-03-19 ~ [Apartisannes Unions](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-03-19%20~%20Apartisannes%20Unions)
 - 25-03-24 ~ [Petit pays](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-03-24%20~%20Petit%20pays)
 - 25-03-31 ~ [Renouveau Démocratique](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-03-31%20-%20Renouveau%20D%C3%A9mocratique)
+- 25-04-07 ~ [Dévoyée France](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-04-07%20~%20D%C3%A9voy%C3%A9e%20France)
 ## Science & Spiritualité
 - 25-01-18 ~ [SS](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2025/25-01-18%20~%20SS)
 - 25-02-05 ~ [Entropie : Game Over](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-02-05%20~%20Entropie%20%3A%20Game%20Over)
