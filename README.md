@@ -63,7 +63,7 @@ Les symboles - et ~ précisent si le texte et son interprétation ont étés cr�
 - 25-02-03 ~ [Vertigineuse Sénèquerie](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-02-03%20~%20Vertigineuse%20S%C3%A9n%C3%A8querie)
 - 25-02-07 - [Simplicité alambiquée](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-02-07%20-%20Simplicit%C3%A9%20alambiqu%C3%A9e)
 - 25-03-25 ~ [Incessants pis-aller](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-03-25%20~%20Incessants%20pis-aller)
-- 25-04-15 ~ [Bien née](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-04-15%20~%20Bien%20n%C3%A9e)
+- 25-04-15 ~ [Bien née](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-04-15%20~%20Bien%20n%C3%A9) 
 ## Outliers
 - 25-01-05 ~ [Appel à la jeunesse](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2025/25-01-05%20~%20Appel%20%C3%A0%20la%20jeunesse)
 - 25-01-21 - [Rappeu.ses.rs engagé.es.s armez vos cros-mi](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2025/25-01-21%20-%20Rappeu.ses.rs%20engag%C3%A9.es.s%20armez%20vos%20cros-mi%20!)
