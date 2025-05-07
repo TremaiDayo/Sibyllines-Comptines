@@ -77,6 +77,7 @@ Les symboles - et ~ précisent si le texte et son interprétation ont étés cr�
 - 25-03-17 ~ [Éduquons, Développons, Bataillons](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-03-17%20~%20%C3%89duquons%2C%20D%C3%A9veloppons%2C%20Bataillons)
 - 25-03-26 ~ [Humoristes engagé.es.s](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-03-26%20~%20Humoristes%20engag%C3%A9.es.s)
 - 25-03-27 ~ [Riche de nos atypicités : 1](https://github.com/TremaiDayo/Sibyllines-Comptines/tree/main/2025)
+- 25-05-07 ~ [Indignons-nous](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-05-07%20~%20Indignons-nous)
 
 
 # May the force be with us !
