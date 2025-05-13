@@ -78,6 +78,7 @@ Les symboles - et ~ précisent si le texte et son interprétation ont étés cr�
 - 25-03-26 ~ [Humoristes engagé.es.s](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-03-26%20~%20Humoristes%20engag%C3%A9.es.s)
 - 25-03-27 ~ [Riche de nos atypicités : 1](https://github.com/TremaiDayo/Sibyllines-Comptines/tree/main/2025)
 - 25-05-07 ~ [Indignons-nous](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-05-07%20~%20Indignons-nous)
+- 25-05-13 ~ [Éphémère et délicate vie](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-05-13%20~%20%C3%89ph%C3%A9m%C3%A8re%20et%20d%C3%A9licate%20vie)
 
 
 # May the force be with us !
