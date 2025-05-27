@@ -80,6 +80,7 @@ Les symboles - et ~ précisent si le texte et son interprétation ont étés cr�
 - 25-05-07 ~ [Indignons-nous](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-05-07%20~%20Indignons-nous)
 - 25-05-13 ~ [Éphémère et délicate vie](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-05-13%20~%20%C3%89ph%C3%A9m%C3%A8re%20et%20d%C3%A9licate%20vie)
 - 25-05-14 - [ENSEMBLE RÉSISTONS 1](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-05-14%20-%20ENSEMBLE%20R%C3%89SISTONS%201)
+- 25-05-27 ~ [Point nous ne nous résignerons de leurs abjections](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-05-27%20~%20Point%20nous%20ne%20nous%20r%C3%A9signerons%20de%20leurs%20abjections)
 
 
 # May the force be with us !
