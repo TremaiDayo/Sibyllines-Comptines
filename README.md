@@ -1,6 +1,6 @@
 # 👾 Sibyllines Comptines 🦄
 
- Les textes associés à mes vidéos quotidiennes qui portent l'espoir qu'ensemble nous tendions vers un monde plus résilient qu'il s'agisse de démocratie comme d'environnement.
+ Les textes associés à mes vidéos qui portent l'espoir qu'ensemble nous tendions vers un monde plus résilient qu'il s'agisse de démocratie comme d'environnement.
 
 ## Réseaux sociaux dans l'attente d'un qui soit libre, démocratique, décentralisé, à algorithme d'exposition paramétrable et financé par des gouvernements/communautés audacieu.x.ses et vertueu.x.ses !
 - [YouTube](https://www.youtube.com/@TremaiDayo)
