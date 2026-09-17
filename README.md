@@ -11,17 +11,17 @@
 - [Threads](https://www.threads.net/@tremaidayo8)
 - Discord : @tremaidayo8
 
-## Je suis ouvert à toute collaboration qui puisse servir les messages que je relais avec gaieté. tremaidayo@gmail.com
+## Je suis ouvert à toute collaboration qui puisse servir les messages que je relaie avec gaieté. tremaidayo@gmail.com
 
 ## Informations complémentaires sur les textes
-- Les phrases finissant par une ponctuation suivi d'un espace et d'un point i.e. "{,;.?!} ." sont générées par LLM
-- Les phrases finissant par une ponctuation suivi d'un espace et d'une virgule i.e. "{,;.?!} ," sont générées en coopération avec un LLM
+- Les phrases finissant par une ponctuation suivie d'un espace et d'un point i.e. "{,;.?!} ." sont générées par LLM
+- Les phrases finissant par une ponctuation suivie d'un espace et d'une virgule i.e. "{,;.?!} ," sont générées en coopération avec un LLM
 - Les autres sont générées par l'équivalent LLM organique de votre serviteur 😄
 
 Pour l'instant je suis encore le générateur principal mais pour combien de temps ? Les paris sont ouverts. 🙃
 
 # Clusters thématiques triés chronologiquement
-Les symboles - et ~ précisent si le texte et son interprétation ont étés créés respectivement le même jour on non.
+Les symboles - et ~ précisent si le texte et son interprétation ont été créés respectivement le même jour on non.
 ## Environnement & Santé
 - 24-10-01 ~ [Pourquoi suis-je devenu bipolaire](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2024/24-10-01%20~%20Pourquoi%20suis%20je%20devenu%20bipolaire%20%3F)
 - 25-01-13 ~ [Dépression](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2025/25-01-13%20~%20D%C3%A9pression)
@@ -36,23 +36,23 @@ Les symboles - et ~ précisent si le texte et son interprétation ont étés cr�
 ## Démocratie & Médiocratie
 - 24-09-05 ~ [Constituante](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2024/24-09-05%20~%20Constituante)
 - 24-11-10 ~ [Trump](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2024/24-11-10%20~%20Trump)
-- 24-11-13 ~ [Marine Lepen](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2024/24-11-13%20~%20Marine%20Lepen)
-- 25-01-07 - [Jean-Marie Lepen](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2025/25-01-07%20-%20Jean%20Marie%20Lepen)
+- 24-11-13 ~ [Marine Le Pen](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2024/24-11-13%20~%20Marine%20Lepen)
+- 25-01-07 - [Jean-Marie Le Pen](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2025/25-01-07%20-%20Jean%20Marie%20Lepen)
 - 25-01-08 ~ [Démocratie Numérique](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2025/25-01-08%20~%20D%C3%A9mocratie%20Num%C3%A9rique)
 - 25-01-08 ~ [Tous ces mécréants du gouvernement](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2025/25-01-08%20~%20Tous%20ces%20m%C3%A9cr%C3%A9ants%20du%20gouvernement)
 - 25-01-10 ~ [Mettons-y fin](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-01-10%20~%20Mettons-y%20fin)
 - 25-01-16 ~ [Gaza](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2025/25-01-16%20~%20Gaza)
 - 25-01-29 ~ [Sombre Oligarchie](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-01-29%20~%20Sombre%20Oligarchie)
 - 25-02-04 ~ [Inéquitables naissances](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-02-04%20~%20In%C3%A9quitables%20naissances)
-- 25-02-08 ~ [Ère des post vérités](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-02-08%20~%20%C3%88re%20des%20post%20v%C3%A9rit%C3%A9s)
-- 25-03-19 ~ [Apartisannes Unions](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-03-19%20~%20Apartisannes%20Unions)
+- 25-02-08 ~ [Ère des post-vérités](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-02-08%20~%20%C3%88re%20des%20post%20v%C3%A9rit%C3%A9s)
+- 25-03-19 ~ [Apartisanes Unions](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-03-19%20~%20Apartisannes%20Unions)
 - 25-03-24 ~ [Petit pays](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-03-24%20~%20Petit%20pays)
 - 25-03-31 ~ [Renouveau Démocratique](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-03-31%20-%20Renouveau%20D%C3%A9mocratique)
 - 25-04-07 ~ [Dévoyée France](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-04-07%20~%20D%C3%A9voy%C3%A9e%20France)
 ## Science & Spiritualité
 - 25-01-18 ~ [SS](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2025/25-01-18%20~%20SS)
 - 25-02-05 ~ [Entropie : Game Over](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-02-05%20~%20Entropie%20%3A%20Game%20Over)
-## Economie & Technologie
+## Économie & Technologie
 - 25-01-15 ~ [Ostentatoire monnaie](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2025/25-01-15%20~%20Ostentatoire%20monnaie)
 - 25-01-23 ~ [IA-Robots Facho & Fococo](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2025/25-01-23%20~%20IA-Robots%20Facho%20%26%20Fococo)
 - 25-01-25 ~ [Democratic Blockchain](https://github.com/TremaiDayo/Fragments-Lyriques/blob/main/2025/25-01-25%20~%20Democratic%20Blockchain)
@@ -76,7 +76,7 @@ Les symboles - et ~ précisent si le texte et son interprétation ont étés cr�
 - 25-03-15 ~ [Il est temps de changer de république pour un monde plus éthique et bucolique](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-03-15%20~%20Il%20est%20temps%20de%20changer%20de%20r%C3%A9publique%20pour%20un%20monde%20plus%20%C3%A9thique%20et%20bucolique)
 - 25-03-17 ~ [Éduquons, Développons, Bataillons](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-03-17%20~%20%C3%89duquons%2C%20D%C3%A9veloppons%2C%20Bataillons)
 - 25-03-26 ~ [Humoristes engagé.es.s](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-03-26%20~%20Humoristes%20engag%C3%A9.es.s)
-- 25-03-27 ~ [Riche de nos atypicités : 1](https://github.com/TremaiDayo/Sibyllines-Comptines/tree/main/2025)
+- 25-03-27 ~ [Riches de nos atypicités : 1](https://github.com/TremaiDayo/Sibyllines-Comptines/tree/main/2025)
 - 25-05-07 ~ [Indignons-nous](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-05-07%20~%20Indignons-nous)
 - 25-05-13 ~ [Éphémère et délicate vie](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-05-13%20~%20%C3%89ph%C3%A9m%C3%A8re%20et%20d%C3%A9licate%20vie)
 - 25-05-14 - [ENSEMBLE RÉSISTONS 1](https://github.com/TremaiDayo/Sibyllines-Comptines/blob/main/2025/25-05-14%20-%20ENSEMBLE%20R%C3%89SISTONS%201)
